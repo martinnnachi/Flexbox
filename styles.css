@@ -9,16 +9,20 @@ html, body {
     margin: 0;
 }
 
-.navbar {
-    display: flex;
-    padding: 10px;
+.navbar, .containter {
     max-width: 1140px;
     width: 100%;
     margin: 0 auto;
-    justify-content: space-between;
 }
 
-.brand, .nav-link {
+.navbar {
+    justify-content: space-between;
+    padding: 10px;
+    display: flex;
+
+}
+
+.brand, .nav-link, a {
     text-transform: uppercase;
     color: #303137;
 }
@@ -38,7 +42,7 @@ html, body {
     list-style: none;
 }
 
-.topnav .nav-link {
+.topnav .nav-link, a {
     text-decoration: none;
     padding-left: 20px;
     font-size: 20px;
@@ -64,6 +68,68 @@ img.glo {
     border-radius: 50%;
     max-width: 200px;
     width: 100%;
+}
+
+.services {
+    background-color: #f1f3fa;
+    padding: 4rem 1rem;
+}
+
+.media-object {
+    display: flex;
+    align-items: center;
+    padding: 4rem 1rem;
+}
+
+.icon-left, .icon-right {
+    flex: 1;
+    display: flex;
+    justify-content: center;
+}
+
+.blurb-wrapper-right, .blurb-wrapper-left {
+    flex: 1;
+}
+
+.icon-left, .blurb-wrapper-left {
+    order: 1;
+}
+
+.icon-right, .blurb-wrapper-right {
+    order: 2;
+}
+
+.icon {
+    width: 180px;
+}
+
+.blurb-wrapper {
+    flex: 1;
+}
+
+.blurb-header {
+    font-size: 24px;
+    margin-top: 0;
+}
+
+.blurb-info {
+    color: #646b90;
+    font-size: 18px;
+}
+
+.quote-btn-wrapper {
+    display: flex;
+    justify-content: center;
+    margin-top: 3rem;
+}
+
+.quote-btn {
+    color: #ffffff;
+    background-color: #66b6d3;
+    font-size: 18px;
+    border: none;
+    padding: .8rem 4rem;
+    box-shadow: 0 5px 20px rgba(0, 0, 0, .3);
 }
 
 h1.gloText {
