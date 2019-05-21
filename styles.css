@@ -132,6 +132,43 @@ img.glo {
     box-shadow: 0 5px 20px rgba(0, 0, 0, .3);
 }
 
+.section-header {
+    text-align: center;
+    padding: 6rem 0 4rem;
+}
+
+.portfolio-wrapper {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    padding: 10px 10px;
+}
+
+.portfolio-object {
+    max-width: 250px;
+    margin: 1rem 0;
+}
+
+.portfolio-box {
+    width: 250px;
+    height: 250px;
+    background-color: #f1f3fa;
+    transition: .2s ease-in-out;
+}
+
+h4 {
+    text-align: center;
+}
+
+.portfolio-box:hover {
+    cursor: pointer;
+    transform: scale(1.02);
+}
+
+.portfolio-text {
+    text-align: center;
+}
+
 h1.gloText {
     text-align: center;
 }
@@ -175,5 +212,45 @@ h1.gloText {
         line-height: 2;
     }
 
+    .media-object {
+        flex-direction: column;
+        text-align: center;
+    }
 
+    .icon-left,
+    .icon-right {
+        order: 1;
+    }
+
+    .blurb-wrapper-left,
+    .blurb-wrapper-right {
+        order: 2;
+        padding-top: 2rem;
+    }
+
+    .portfolio-wrapper {
+        text-align: center;
+    }
+
+    .portfolio-text {
+        text-align: center;
+    }
+
+    h4 {
+        text-align: center;
+    }
+}
+
+@media (max-width: 599px) {
+    .portfolio-wrapper {
+        justify-content: center;
+    }
+
+    .portfolio-text {
+        text-align: center;
+    }
+
+    h4 {
+        text-align: center;
+    }
 }

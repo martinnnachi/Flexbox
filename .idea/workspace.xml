@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="397becdc-83ae-4c28-ad6f-a1670ac3c24b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Flexbox-LandingPage.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Flexbox-LandingPage.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles.css" afterDir="false" />
@@ -18,14 +16,14 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.6443452">
+    <splitter split-orientation="horizontal" split-proportion="0.6703869">
       <split-first>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
           <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/index.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="228">
-                  <caret line="68" column="49" selection-start-line="68" selection-start-column="49" selection-end-line="68" selection-end-column="49" />
+                <state relative-caret-position="528">
+                  <caret line="146" column="89" selection-start-line="146" selection-start-column="89" selection-end-line="146" selection-end-column="89" />
                 </state>
               </provider>
             </entry>
@@ -37,8 +35,8 @@
           <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/styles.css">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="394">
-                  <caret line="131" column="45" selection-start-line="131" selection-start-column="45" selection-end-line="131" selection-end-column="45" />
+                <state relative-caret-position="747">
+                  <caret line="239" column="26" selection-start-line="239" selection-start-column="26" selection-end-line="239" selection-end-column="26" />
                 </state>
               </provider>
             </entry>
@@ -46,7 +44,7 @@
           <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/main.js">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="192">
+                <state relative-caret-position="168">
                   <caret line="7" column="1" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
                 </state>
               </provider>
@@ -148,12 +146,13 @@
       <workItem from="1558004881282" duration="4022000" />
       <workItem from="1558367953267" duration="20000" />
       <workItem from="1558431517120" duration="609000" />
-      <workItem from="1558438550421" duration="8055000" />
+      <workItem from="1558438550421" duration="11152000" />
+      <workItem from="1558455273219" duration="3024000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18200000" />
+    <option name="totallyTimeSpent" value="24321000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -191,22 +190,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/main.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
+        <state relative-caret-position="168">
           <caret line="7" column="1" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="68" column="49" selection-start-line="68" selection-start-column="49" selection-end-line="68" selection-end-column="49" />
+        <state relative-caret-position="528">
+          <caret line="146" column="89" selection-start-line="146" selection-start-column="89" selection-end-line="146" selection-end-column="89" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/styles.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="394">
-          <caret line="131" column="45" selection-start-line="131" selection-start-column="45" selection-end-line="131" selection-end-column="45" />
+        <state relative-caret-position="747">
+          <caret line="239" column="26" selection-start-line="239" selection-start-column="26" selection-end-line="239" selection-end-column="26" />
         </state>
       </provider>
     </entry>
